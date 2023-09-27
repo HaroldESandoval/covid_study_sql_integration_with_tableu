@@ -1,2 +1,1 @@
-# covid_study_statistics-and-insights
-Our project delves into COVID-19 statistics, using data analysis and visualization to reveal trends, inform decision-making, and promote public understanding. 
+Our project "Study Covid Statistics and Insights" aims to analyze COVID-19 data from various sources to provide valuable insights into the pandemic's progression. Through data analysis, visualization, and statistical modeling.
